@@ -1,0 +1,46 @@
+/*
+[
+    {
+        "id": "a2d61b91-8f4b-46e4-977b-9d67e5fc1f11",
+        "time": "8:30 AM to 9:15 AM",
+        "title": "AP Physics C:Mech - 3730",
+        "location": "T2, p1",
+        "instructor": "TaylorD - NEW"
+    },
+    {
+        "id": "3f6c0a4d-0713-4d55-b086-4f14e1078657",
+        "time": "9:20 AM to 10:05 AM",
+        "title": "Accounting 1 - 4710",
+        "location": "T2, p2",
+        "instructor": "BadgerA"
+    },
+    {
+        "id": "4a9f2f96-9cb5-457d-bd92-cae0c9a5d28d",
+        "time": "10:40 AM to 11:25 AM",
+        "title": "AP Calculus BC - 2440",
+        "location": "T2, p3",
+        "instructor": "TsaiN"
+    },
+    {
+        "id": "3b1f2545-4dc8-4895-a8b7-88f7525f2c1d",
+        "time": "11:50 AM to 12:35 PM",
+        "title": "AP Comp Sci A - 2350",
+        "location": "T2, p4",
+        "instructor": "FulkB"
+    },
+    {
+        "id": "84e3990d-5e3c-4d84-800d-c2c609b9cf7b",
+        "time": "12:40 PM to 1:25 PM",
+        "title": "US History - 1730",
+        "location": "T2, p5",
+        "instructor": "WilliamsM"
+    },
+    {
+        "id": "d7b16913-fb6b-41b4-a057-4ff9ff5b8ae2",
+        "time": "2:15 PM to 3:00 PM",
+        "title": "AP Lang/Comp - 1190",
+        "location": "T2, p6",
+        "instructor": "SeikeA"
+    }
+]
+*/
